@@ -1,4 +1,4 @@
-#include "scores.hh"
+#include<scores.hh>
 
 Scores::Scores(int maxEnt)
 {

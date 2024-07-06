@@ -2,4 +2,6 @@
     "files.associations": {
         "string": "cpp"
     }
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
 }
