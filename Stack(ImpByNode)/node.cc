@@ -20,3 +20,5 @@ Node *Node::getNext()
 void Node::setNext(Node * n){
     this->next_ = n;
 }
+
+
